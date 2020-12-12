@@ -5,7 +5,9 @@
 
 
 chạy 
+
 	npm install 
+	
 để install các dependencies có trong file package.jon 
 
 Tiếp theo chạy 
