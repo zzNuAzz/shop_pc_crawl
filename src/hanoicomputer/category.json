@@ -1,0 +1,41 @@
+{
+    "baseUrl": "https://www.hanoicomputer.vn",
+    "category": [
+        {
+            "url": "/cpu-bo-vi-xu-ly",
+            "path": "cpu"
+        },
+        {
+            "url": "/mainboard-bo-mach-chu",
+            "path": "main"
+        },
+        {
+            "url": "/ram-bo-nho-trong",
+            "path": "ram"
+        },
+        {
+            "url": "/o-cung-hdd-desktop",
+            "path": "hdd"
+        },
+        {
+            "url": "/o-cung-ssd",
+            "path": "ssd"
+        },
+        {
+            "url": "/odd-o-dia-quang",
+            "path": "ood"
+        },
+        {
+            "url": "/vga-card-man-hinh",
+            "path": "vga"
+        },
+        {
+            "url": "/vo-case",
+            "path": "case"
+        },
+        {
+            "url": "/nguon-may-tinh",
+            "path": "psu"
+        }
+    ]
+}

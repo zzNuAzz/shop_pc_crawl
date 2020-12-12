@@ -1,0 +1,41 @@
+{
+    "baseUrl": "https://gearvn.com",
+    "category": [
+        {
+            "url": "/collections/cpu-bo-vi-xu-ly",
+            "path": "cpu"
+        },
+        {
+            "url": "/collections/mainboard-bo-mach-chu",
+            "path": "main"
+        },
+        {
+            "url": "/collections/ram-pc",
+            "path": "ram"
+        },
+        {
+            "url": "/collections/hdd-o-cung-pc",
+            "path": "hdd"
+        },
+        {
+            "url": "/collections/ssd-o-cung-the-ran",
+            "path": "ssd"
+        },
+        {
+            "url": "/collections/vga-card-man-hinh",
+            "path": "vga"
+        },
+        {
+            "url": "/collections/case-thung-may-tinh",
+            "path": "case"
+        },
+        {
+            "url": "/collections/psu-nguon-may-tinh",
+            "path": "psu"
+        },
+        {
+            "url" : "/collections/fan-rgb-tan-nhiet-pc",
+            "path": "cooler"
+        }
+    ]
+}

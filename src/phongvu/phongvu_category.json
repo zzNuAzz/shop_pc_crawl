@@ -1,0 +1,34 @@
+[
+    {
+        "path": "cpu",
+        "url": "https://phongvu.vn/cpu-bo-vi-xu-ly-553.cat?pv_medium=m-cpu-bo-vi-xu-ly"
+    },
+    {
+        "path": "vga",
+        "url": "https://phongvu.vn/vga-554.cat?pv_medium=m-vga-card-man-hinh"
+    },
+    {
+        "path": "main",
+        "url": "https://phongvu.vn/mainboard-552.cat?pv_medium=m-mainboard-bo-mach-chu"
+    },
+    {
+        "path": "ram",
+        "url": "https://phongvu.vn/ram-bo-nho-du-lieu-tam-thoi-548.cat?pv_medium=m-ram"
+    },
+    {
+        "path": "drive",
+        "url": "https://phongvu.vn/o-cung-550.cat?pv_medium=m-o-cung"
+    },
+    {
+        "path": "psu",
+        "url": "https://phongvu.vn/psu-541.cat?pv_medium=m-psu-nguon"
+    },
+    {
+        "path": "fan",
+        "url": "https://phongvu.vn/tan-nhiet-555.cat?pv_medium=m-tan-nhiet"
+    },
+    {
+        "path": "case",
+        "url": "https://phongvu.vn/case-thung-may-549.cat?pv_medium=m-case-may-tinh"
+    }
+]

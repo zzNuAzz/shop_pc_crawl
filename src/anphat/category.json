@@ -1,0 +1,49 @@
+{
+    "baseUrl": "https://www.anphatpc.com.vn",
+    "category": [
+        {
+            "url": "/cpu-desktop_dm1025.html",
+            "path": "cpu"
+        },
+        {
+            "url": "/bo-mach-chu_dm1024.html",
+            "path": "main"
+        },
+        {
+            "url": "/bo-nho-trong_dm1234.html",
+            "path": "ram"
+        },
+        {
+            "url": "/o-cung-desktop_dm1047.html",
+            "path": "hdd"
+        },
+        {
+            "url": "/o-cung-ssd_dm1030.html",
+            "path": "ssd"
+        },
+        {
+            "url": "/o-dia-quang_dm1048.html",
+            "path": "ood"
+        },
+        {
+            "url": "/vga-card-man-hinh_dm1155.html",
+            "path": "vga"
+        },
+        {
+            "url": "/vo-may-tinh-case_dm1050.html",
+            "path": "case"
+        },
+        {
+            "url": "/nguon-dien-may-tinh-psu_dm1051.html",
+            "path": "psu"
+        },
+        {
+            "url" : "/phu-kien-do-choi-may-tinh_dm1183.html",
+            "path": "pc-toy"
+        },
+        {
+            "url": "/ban-phim-chuot_dm1293.html",
+            "path": "keyboard-mouse"
+        }
+    ]
+}
