@@ -1,3 +1,3 @@
-// require('./craw');
+// require('./crawl');
 
 console.log("chạy được");
