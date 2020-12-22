@@ -1,3 +1,3 @@
 // require('./crawl');
 
-console.log("chạy được");
+console.log("không chạy được");

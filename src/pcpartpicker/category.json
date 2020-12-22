@@ -1,0 +1,11 @@
+{
+	"baseUrl": "https://pcpartpicker.com",
+	"category": [
+		{ "url": "/products/motherboard/#m=7,8,18,27" },
+		{
+			"url": "/products/internal-hard-drive/#m=34,38&t=5200,5400,5700,5760,5900,7200,10000,10025,10500,10520,15000,1"
+		},
+		{ "url": "/products/internal-hard-drive/#m=1,23,32,38&t=0" },
+		{ "url": "/products/video-card/#m=8,18,27" }
+	]
+}
