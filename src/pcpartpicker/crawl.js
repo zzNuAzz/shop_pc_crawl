@@ -10,7 +10,7 @@ category.map(e => {
 });
 
 const option = {
-	headless: false,
+	headless: true,
 	defaultViewport: null,
 };
 
